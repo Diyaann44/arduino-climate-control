@@ -15,5 +15,4 @@ This project controls a DC motor (fan) based on temperature.
 
 ## Files
 - ClimateControlModule.ino
-- <img width="1907" height="1000" alt="image" src="https://github.com/user-attachments/assets/c6b77a1b-3e73-4f13-a97b-761eaa946f49" />
 [climatecontrolmoduleschematic.pdf](https://github.com/user-attachments/files/29431999/climatecontrolmoduleschematic.pdf)
